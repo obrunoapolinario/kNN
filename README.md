@@ -36,9 +36,9 @@ Classe alvo:
 
 ## Entrada dos Dados
 
-* [ ] Leitura de arquivo CSV
-* [ ] Conversão das linhas para estruturas Go
-* [ ] Identificação da coluna de classe (churned)
+* [x] Leitura de arquivo CSV
+* [x] Conversão das linhas para estruturas Go
+* [x] Identificação da coluna de classe (churned)
 
 ---
 
@@ -100,8 +100,8 @@ Classe alvo:
 
 ## Leitura dos Dados
 
-* [ ] CSV Reader
-* [ ] Conversão para Customer
+* [x] CSV Reader
+* [x] Conversão para Customer
 
 ## Pré-processamento
 
