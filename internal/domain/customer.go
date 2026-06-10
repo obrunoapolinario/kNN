@@ -1,3 +1,5 @@
+package domain
+
 type Customer struct {
 	CustomerID string
 
